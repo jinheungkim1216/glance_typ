@@ -46,6 +46,7 @@ let fileExtensionLexers = [
 	"stringsdict": "xml",
 	"sty": "tex",
 	"targets": "xml",
+	"typ": "typst",
 	"webmanifest": "json",
 	"xcscheme": "xml",
 	"xib": "xml",
